@@ -38,7 +38,9 @@
 
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![Pikago's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pikago-hub&theme=react-dark)](https://github.com/Pikago-hub/)
+[![Pikago-hub's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pikago-hub&theme=react-dark)](https://github.com/Pikago-hub/)
+
+![Pikago-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikago-hub&count_private=true)
 
 </div>
 
