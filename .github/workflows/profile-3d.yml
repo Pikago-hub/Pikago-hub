@@ -1,4 +1,4 @@
-name: 生成GitHub活动3D版
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -15,11 +15,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 1000
       - name: Commit & Push
         run: |
           git config user.name Pikago-hub
           git config user.email wuxiaozhu9821@hotmail.com
-          git add .
+          git add -A .
           git commit -m "generated"
           git push
