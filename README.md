@@ -35,10 +35,10 @@
 
 [![profile](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)
   
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg)
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/assets/github-contribution-grid-snake.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github) 
+[![](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github)](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github) 
 
 </div>
 
