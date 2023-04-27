@@ -10,7 +10,7 @@
   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3" alt="Second Image">
 </div>
 
-### Welcome 
+### Welcome
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Pikago-hub.Pikago-hub)](https://visitor-badge.laobi.icu/badge?page_id=Pikago-hub.Pikago-hub)
 [![Mail Badge](https://img.shields.io/badge/-wuxiaozhu9821@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wuxiaozhu9821@hotmail.com)](mailto:wuxiaozhu9821@hotmail.com)
@@ -18,30 +18,27 @@
 [![](https://img.shields.io/github/followers/Pikago-hub?color=27da6b&logo=Handshake)](https://github.com/Pikago-hub?tab=followers)
 [![](https://img.shields.io/badge/Website-PersonalWebsite-c780fa)](https://www.jerryzywu.com/)
 
-
 ### Computer Skills
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a><a href="https://apple.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macbookpro" width="43" height="43"/> </a><a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.markdownguide.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="centos" width="40" height="40"/> </a><a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="golang" width="40" height="40"/> </a><a href="https://cn.vuejs.org/index.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Groovy" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://apifox.cn" target="_blank"> <img src="https://www.apifox.cn/favicon.ico" alt="apifox" width="40" height="40"/> </a><a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="typora" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Obsidian" width="40" height="40"/> </a><a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Utools" width="40" height="40"/> </a><a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="Nexus" width="40" height="40"/> </a><a href="https://developer.android.com/studio" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Ansible" width="40" height="40"/> </a><a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Prometheus" width="40" height="40"/> </a> <a href="https://www.redhat.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Bob" width="40" height="40"/> </a><a href="https://www.google.com/chrome/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-  
+
 ### Status
+
 <details open>
 <summary>Expand</summary>
 
 <div align="center">
 
-
 [![Pikago-hub's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Pikago-hub&count_private=true&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Pikago-hub&count_private=true&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)[![Commonly Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikago-hub&count_private=true&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikago-hub&count_private=true&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)
 
 [![profile](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)
-  
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/assets/github-contribution-grid-snake.svg)
+
+[![snake](https://github.com/Pikago-hub/Pikago-hub/blob/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/assets/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github)](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github) 
+[![](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github)](https://activity-graph.herokuapp.com/graph?username=Pikago-hub&theme=github)
 
 </div>
 
 </details>
-
-  
