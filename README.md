@@ -40,7 +40,7 @@
 
 [![Pikago-hub's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pikago-hub&theme=react-dark)](https://github.com/Pikago-hub/)
 
-![Pikago-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikago-hub&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pikago-hub&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/Pikago/)
 
 </div>
 
