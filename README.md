@@ -10,7 +10,7 @@
 ### 😺Welcome
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Pikago-hub.Pikago-hub)](https://visitor-badge.laobi.icu/badge?page_id=Pikago-hub.Pikago-hub)
-[![Mail Badge](https://img.shields.io/badge/-wuxiaozhu9821@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wuxiaozhu9821@hotmail.com)](mailto:wuxiaozhu9821@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/-z.wu@redbirdtab.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:z.wu@redbirdtab.com)](mailto:z.wu@redbirdtab.com)
 [![](https://img.shields.io/github/stars/Pikago-hub?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Pikago-hub&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/Pikago-hub?color=27da6b&logo=Handshake)](https://github.com/Pikago-hub?tab=followers)
 [![](https://img.shields.io/badge/Website-PersonalWebsite-c780fa)](https://www.jerryzywu.com/)
