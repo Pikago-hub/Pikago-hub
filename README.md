@@ -29,7 +29,7 @@
 
 [![Pikago-hub's github stats](https://github-readme-stats-git-master-pikagohubs-projects.vercel.app/api?username=Pikago-hub&count_private=true&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)](https://github-readme-stats-git-master-pikagohubs-projects.vercel.app/api?username=Pikago-hub&count_private=true&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)[![Commonly Used Language](https://github-readme-stats-git-master-pikagohubs-projects.vercel.app/api/top-langs/?username=Pikago-hub&count_private=true&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikago-hub&count_private=true&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)
 
-[![profile](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=Pikago-hub&theme=algolia&column=8)
+
 
 [![snake](https://github.com/Pikago-hub/Pikago-hub/blob/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Pikago-hub/Pikago-hub/main/assets/github-contribution-grid-snake.svg)
 
